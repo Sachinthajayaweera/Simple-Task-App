@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Indigo Theme -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_variant">#018786</color>
+    
+    <!-- Backgrounds & Surfaces -->
+    <color name="background_light">#F2F4F8</color> <!-- Soft Blue-Grey Background -->
+    <color name="surface_white">#FFFFFF</color>
+    
+    <!-- Text -->
+    <color name="text_primary">#1F2937</color> <!-- Dark Slate -->
+    <color name="text_secondary">#6B7280</color> <!-- Medium Slate -->
+    <color name="text_hint">#9CA3AF</color>
+    
+    <!-- Accents -->
+    <color name="delete_red">#EF4444</color>
+    <color name="success_green">#10B981</color>
+</resources>

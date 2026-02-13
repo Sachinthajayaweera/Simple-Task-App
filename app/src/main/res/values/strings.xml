@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="save_task">Save Task</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="no_tasks">No tasks yet. Add one!</string>
+    <string name="delete">Delete</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="header_new_task">New Task</string>
+    <string name="error_empty_title">Title cannot be empty</string>
+    <string name="msg_task_saved">Task saved</string>
+    <string name="header_edit_task">Edit Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="msg_task_updated">Task updated</string>
+</resources>

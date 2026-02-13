@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.simpletaskapp-mergeDebugResources-3:/layout/item_task.xml",
+        "source": "com.example.simpletaskapp-main-6:/layout/item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-mergeDebugResources-3:\\layout\\activity_add_task.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-main-6:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-mergeDebugResources-3:\\layout\\item_task.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-main-6:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-mergeDebugResources-3:\\layout\\activity_edit_task.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-main-6:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\9.0-milestone-1\\com.example.simpletaskapp-main-6:\\layout\\activity_main.xml"
+    }
+]
