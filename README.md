@@ -52,7 +52,7 @@ The app works completely offline and does not require any backend or internet co
 ![Main Screen](Screenshots/Screenshot_1.png)
 
 ### 🔹 Validation Check
-![Validation Check Screen](Screenshots/Screenshot_2png)
+![Validation Check Screen](Screenshots/Screenshot_2.png)
 
 ### 🔹 Completed Task Example
 ![Completed Task](Screenshots/Screenshot_3.png)
